@@ -1,4 +1,4 @@
-This is simple script for queueing youtube videos and generating downlaod links them in the background with workers. It supports multi-thread. You can run workey.py multiple times. Works with redis.
+This is simple script for queueing youtube videos and generating downlaod links them in the background with workers. It supports multi-thread. You can run worker.py multiple times. Works with redis.
 
 Works with Python 2.X
 
